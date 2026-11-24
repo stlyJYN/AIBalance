@@ -1,0 +1,5 @@
+build/
+android-build/
+.android-build/
+*.class
+local.properties

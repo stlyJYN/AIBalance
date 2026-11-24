@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI 余额查询</string>
+    <string name="widget_2x1_description">余额查询</string>
+    <string name="widget_2x2_description">余额和今日消耗</string>
+    <string name="widget_4x2_description">余额和今日消耗</string>
+</resources>
